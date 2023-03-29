@@ -1,4 +1,4 @@
-# <Your-Project-Title>
+# Project Title
 - Image and short bio of project
 - OR Demo GIF and bio
 
@@ -19,7 +19,7 @@ If your README is long, add a table of contents to make it easy for users to fin
 - [Usage](#usage)
 - [Acknowledgements](#acknowledgements)
 - [Technologies](#technologies)
-- [Features & Implementation](#features-&-implementation)
+- [Features & Implementation](#features-implementation)
 - [Upcoming Features](#upcoming-features)
 - [Feedback](#feedback)
 - [How to Contribute](#how-to-contribute)
