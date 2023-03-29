@@ -103,9 +103,9 @@ Feel free to send me feedback by filing an issue. Feature requests are always we
 
 If you wish to contribute or if there's anything you would like to chat about, send me an email @[michellemounde@gmail.com](mailto:michellemounde@gmail.com)!
 
-## Contribution
+## How to Contribute
 
-The contributing guidelines can be found at [Contributing](docs/CONTRIBUTING.md).
+The contributing guidelines can be found at [How to Contribute](docs/CONTRIBUTING.md).
 
 ## Tests
 
@@ -113,4 +113,4 @@ Go the extra mile and write tests for your application. Then provide examples on
 
 ## License
 
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
+The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [choosealicense.com](https://choosealicense.com/).
