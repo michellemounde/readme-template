@@ -19,10 +19,10 @@ If your README is long, add a table of contents to make it easy for users to fin
 - [Usage](#usage)
 - [Acknowledgements](#acknowledgements)
 - [Technologies](#technologies)
-- [Features & Implementation](#features)
-- [Future Features](#todo)
+- [Features & Implementation](#features-&-implementation)
+- [Upcoming Features](#upcoming-features)
 - [Feedback](#feedback)
-- [Contributing](#contributing)
+- [How to Contribute](#how-to-contribute)
 - [Tests](#tests)
 - [License](#license)
 
@@ -95,7 +95,7 @@ If your project has a lot of features, list them here.
 5. API routes document (if you have a backend API)
 6. Redux store tree document (if you used Redux)
 
-## To-Do OR Future Features
+## Upcoming Features
 - Planning to add
 
 ## Feedback
@@ -103,7 +103,7 @@ Feel free to send me feedback by filing an issue. Feature requests are always we
 
 If you wish to contribute or if there's anything you would like to chat about, send me an email @[michellemounde@gmail.com](mailto:michellemounde@gmail.com)!
 
-## How to Contribute
+## Contribution
 
 The contributing guidelines can be found at [Contributing](docs/CONTRIBUTING.md).
 
