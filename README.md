@@ -15,6 +15,7 @@ Provide a short description explaining the what, why, and how of your project. U
 
 If your README is long, add a table of contents to make it easy for users to find what they need.
 
+- [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Acknowledgements](#acknowledgements)
@@ -26,6 +27,15 @@ If your README is long, add a table of contents to make it easy for users to fin
 - [Tests](#tests)
 - [License](#license)
 
+# Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+
+- Req 1
+- Req 2
+- Req 3
+- Req 4
+- Req 5
 
 ## Installation
 
@@ -39,7 +49,6 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
     ```md
     ![alt text](assets/images/screenshot.png)
-    ```
 
 ## Acknowledgements
 
