@@ -107,6 +107,16 @@ If you wish to contribute or if there's anything you would like to chat about, s
 
 The contributing guidelines can be found at [How to Contribute](docs/CONTRIBUTING.md).
 
+OR
+
+Contributions are welcome! To contribute to [Project Name], follow these steps:
+
+1. Fork the repository
+2. Create a new branch: git checkout -b feature/your-feature
+3. Make your changes and commit them: git commit -m 'Add some feature'
+4. Push to the branch: git push origin feature/your-feature
+5. Create a pull request on GitHub
+
 ## Tests
 
 Go the extra mile and write tests for your application. Then provide examples on how to run them here.
